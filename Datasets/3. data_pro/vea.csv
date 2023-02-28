@@ -1,0 +1,330 @@
+bat;brand;cam_front;cam_main;condition;conect;cores;cpu_vel;mem_int;mem_ram;os;phone;screen_size;screen_type;warranty;water_res;price_norm;price_off;retail
+5000;samsung;8;50;nuevo;4g;8;2;64;4;android;galaxy a13;6.6;ips;12;no;649;599;plaza vea
+2000;alcatel;2;5;nuevo;4g;4;1.28;32;1;android;5033ep;5;fwvga+;12;no;219;199;plaza vea
+5000;samsung;13;48;nuevo;4g;8;2;128;4;android;galaxy a22;6.4;super amoled;12;no;799;749;plaza vea
+5000;motorola;8;50;nuevo;4g;8;2;128;4;android;moto g31;6.4;oled;12;no;699;649;plaza vea
+5000;xiaomi;5;;nuevo;4g;2;2;32;2;android;redmi 9a;;lcd;12;no;499;;plaza vea
+5000;samsung;8;50;nuevo;4g;8;2;128;4;android;galaxy a23;6.6;pls lcd;12;no;899;849;plaza vea
+5000;motorola;16;50;nuevo;4g;8;2.4;128;6;android;moto g52;6.6;oled;12;no;999;939;plaza vea
+5000;samsung;13;48;nuevo;4g;8;2.4;128;6;android;galaxy a33;6.4;super amoled;12;sãƒâ­;1299;1199;plaza vea
+5000;samsung;32;64;nuevo;4g;8;2.4;128;6;android;galaxy a53;6.5;super amoled;12;sãƒâ­;1799;1699;plaza vea
+5000;motorola;16;16;nuevo;4g;8;3;64;4;android;moto g8;6.4;hd;;no;499;459;plaza vea
+5000;xiaomi;5;13;nuevo;4g;8;3;32;2;android;redmi 9a;6.5;hd;;no;499;;plaza vea
+5000;samsung;5;13;nuevo;4g;8;2.3;64;3;android;galaxy a04 e;6.5;pls lcd;12;no;499;;plaza vea
+5000;xiaomi;16;108;nuevo;4g;8;;128;6;android;redmi note 11s;6.4;amoled;12;no;1079;;plaza vea
+4020;motorola;5;16;nuevo;4g;8;2.3;64;2;android;moto e22i;6.5;lcd;12;no;479;449;plaza vea
+5000;tcl;8;50;nuevo;4g;8;2.3;64;4;android;30 se;6.5;ips;12;no;599;549;plaza vea
+5000;samsung;13;;nuevo;4g;8;2.4;128;6;android;galaxy a33;;super amoled;12;;1299;1199;plaza vea
+5000;xiaomi;13;50;nuevo;4g;8;2.4;128;4;android;redmi note 11;6.4;fhd+;12;no;999;;plaza vea
+5000;xiaomi;5;;nuevo;4g;8;2;32;2;android;redmi 9a;6.5;ips;12;no;499;;plaza vea
+5000;xiaomi;5;13;nuevo;4g;8;2;32;2;android;redmi 9a;6.5;ips;12;no;499;;plaza vea
+5000;samsung;8;50;nuevo;4g;8;2;64;4;android;galaxy a13;6.6;pls tft lcd;12;no;649;599;plaza vea
+5000;samsung;13;48;nuevo;;8;2;128;4;android;galaxy a22;6.4;super amoled;12;no;799;749;plaza vea
+5000;motorola;16;50;nuevo;;8;2.4;128;6;android;moto g52;6.6;oled;12;no;999;939;plaza vea
+4020;motorola;5;16;nuevo;;8;2.3;64;2;android;moto e22i;6.5;lcd;12;no;479;449;plaza vea
+5000;motorola;8;50;nuevo;;8;2;128;4;android;moto g31;6.4;oled;12;no;699;649;plaza vea
+5000;samsung;5;13;nuevo;;8;2.3;64;3;android;galaxy a04 e;6.5;pls lcd;12;no;499;;plaza vea
+4000;honor;16;64;nuevo;;8;2.4;128;6;android;honor x8;6.7;ips;12;no;1199;;plaza vea
+5000;honor;8;48;nuevo;;8; ;128;4;android;honor x7;6.7;ips;12;no;999;;plaza vea
+4000;huawei;16;108;nuevo;;8;2;128;6;android;nova 9 se;6.8;;12;no;899;849;plaza vea
+5000;xiaomi;16;108;nuevo;5g;8;2.2;128;6;android;poco x4 pro;6.6;amoled;12;no;1499;;plaza vea
+5000;xiaomi;16;64;nuevo;;8;2.05;128;6;android;poco m4 pro;6.4;amoled;12;no;1099;;plaza vea
+5000;realme;8;50;nuevo;5g;8;2.4;128;6;android;9i;6.5;ips;12;no;1099;999;plaza vea
+5000;xiaomi;5;13;nuevo;4g;8;2.3;128;4;android;redmi 9c;6.5;ips;12;no;799;;plaza vea
+5000;vivo;8;;nuevo;4g;8;1.8;128;4;android;y21s;6.5;ips;12;no;999;;plaza vea
+4000;vivo;44;;nuevo;4g;8;2.4;128;8;android;v21;6.4;amoled;12;no;2299;;plaza vea
+4360;huawei;13;50;nuevo;5g;8;2.84;256;8;android;p50 pro;6.6;oled;12;no;3699;3399;plaza vea
+4300;huawei;16;64;nuevo;;8;2;128;6;android;nova 8i;6.7;ips;12;no;999;;plaza vea
+4000;motorola;5;13;nuevo;4g;8;1.6;32;2;android;moto e20;6.5;ips;12;no;579;;plaza vea
+5000;motorola;13;48;nuevo;4g;8;1.8;128;4;android;moto g20;6.5;ips;12;no;899;;plaza vea
+5000;realme;5;;nuevo;4g;;1.8;64;4;android;c21y;6.5;ips;12;sãƒâ­;599;559;plaza vea
+4500;samsung;32;12;nuevo;4g;8;2.9;128;6;android;galaxy s21 fe;6.2;dynamic amoled 2x;12;no;2699;2499;plaza vea
+4500;samsung;32;64;nuevo;4g;8;2.4;128;6;android;galaxy a52s;5.6;super amoled;12;no;1999;;plaza vea
+4000;huawei;8;13;nuevo;4g;;1.8;64;4;android;y7 dubai;6.3;ips;12;no;699;;plaza vea
+4000;huawei;8;13;nuevo;4g;;1.83;32;3;android;y7;6.3;ips;12;no;599;;plaza vea
+4000;huawei;8;48;nuevo;4g;;2.2;64;4;android;y8s;6.5;ips;12;no;899;;plaza vea
+5000;samsung;8;;nuevo;;8;2.4;128;4;android;galaxy a23;;tft;12;no;949;;plaza vea
+5000;samsung;40;;nuevo;5g;8;2.99;256;12;android;galaxy s22 ultra;6.8;dynamic amoled x2;12;;4559;;plaza vea
+3046;apple;;;reacondicionado;;;;;4;ios;iphone 11 pro;;;;;2499;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;256;6;ios;iphone 14 pro max;6.7;ltpo super retina xdr oled;12;sãƒâ­;6999;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;128;6;ios;iphone 14 pro max;6.7;ltpo super retina xdr oled;12;sãƒâ­;6499;;plaza vea
+3240;apple;12;12;reacondicionado;5g;6;;128;4;ios;iphone 13;;super retina xdr;12;;3729;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;;6;ios;iphone 14 pro max;;ltpo super retina xdr oled;12;;6739;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;256;6;ios;iphone 14 pro max;;ltpo super retina xdr oled;12;;7099;;plaza vea
+3279;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14;6;super retina xdr oled;7;sãƒâ­;4475;;plaza vea
+3227;apple;12;;nuevo;4g;8;;128;4;ios;iphone 13;6.1;super retina xdr oled;6;no;4219;;plaza vea
+2942;apple;7;;reacondicionado;4g;;;128;3;ios;iphone xr;6.1;liquid retina hd;12;;1729;;plaza vea
+;samsung;32;;nuevo;;8;2.4;128;;android;galaxy a53;;fhd+ super amoled;12;no;1799;1699;plaza vea
+3240;apple;12;;nuevo;;6;3.23;128;4;ios;iphone 13;6.1;;3;sãƒâ­;4585;;plaza vea
+3000;zte;2;;nuevo;4g;8;;32;2;android;blade a31 plus;;;12;no;375;;plaza vea
+5150;umidigi;8;16;nuevo;4g;4;2;64;4;android;a13s;6.8;ips;12;no;529;;plaza vea
+;motorola;13;;nuevo;;8;;128;4;android;moto g51;;full hd+;12;no;799;699;plaza vea
+2942;apple;7;;reacondicionado;4g;;;128;3;ios;iphone xr;6.1;liquid retina hd;12;no;1629;;plaza vea
+5000;samsung;32;;nuevo;5g;8;2.4;128;6;android;galaxy a53;;super amoled touchscreen capacitivo, 16m colores;12;si;1549;;plaza vea
+5000;samsung;32;;nuevo;5g;8;2.4;128;6;android;galaxy a53;;super amoled touchscreen capacitivo, 16m colores;12;si;1988;;plaza vea
+;xiaomi;13;50;nuevo;;;2.4;128;4;android;redmi note 11;;amoled;12;si;849;749;plaza vea
+;xiaomi;5;;nuevo;;2;2;32;2;android;redmi 9a;;;6;no;409;;plaza vea
+;cat;;;nuevo;;;;;;;s42;;pantalla ultrabrillante;;no;1149;;plaza vea
+;smooth;;;nuevo;;;;;;;uno;;;6;no;119.9;;plaza vea
+;landbyte;;;nuevo;;;;0.032;0.032;;landbyte lt1030;;;6;no;92.9;;plaza vea
+;smooth;;;nuevo;;;;;;;snap x;;;6;no;72.9;;plaza vea
+5000;samsung;5;50;nuevo;4g;2;1;64;4;android;galaxy a04;6.5;ips;12;no;869;;plaza vea
+5000;samsung;32;12;nuevo;5g;;;128;6;android;galaxy a53;6.5;amoled;12;no;2399;;plaza vea
+5000;samsung;8;50;nuevo;4g;;2.4;128;4;android;galaxy a23;6.6;;12;no;1199;;plaza vea
+4000;motorola;5;13;nuevo;4g;2;1;32;2;android;moto e20;6.5;ips;12;no;459;;plaza vea
+5000;motorola;8;48;nuevo;4g;2;1;32;2;android;moto e30;6.5;ips;12;no;579;;plaza vea
+4800;huawei;16;64;nuevo;4g;2;2;128;8;android;honor x9;6.8;ips;12;no;1530;;plaza vea
+4020;motorola;2;16;nuevo;4g;2;2.3;64;2;android;moto e22i;6.5;ips;12;no;569;;plaza vea
+5000;samsung;13;48;nuevo;;8;1.8;128;4;android;galaxy a22;6.4;super amoled;12;no;799;749;plaza vea
+4000;huawei;8;12;nuevo;4g;2;1.4;32;3;android;y7;;ips;12;no;879;;plaza vea
+3020;huawei;8;13;nuevo;4g;2;2;32;2;android;y6;;ips;12;no;699;;plaza vea
+3340;huawei;32;24;nuevo;4g;2;2.2;256;8;android;p30 lite;;ips;12;no;1349;;plaza vea
+3000;huawei;8;13;nuevo;4g;2;1.4;16;2;android;y7;;ips;12;no;749;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;128;6;ios;iphone 14 pro max;6.7;ltpo super retina xdr oled;6;si;6592;;plaza vea
+3279;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14;6;super retina xdr oled;6;si;4559;;plaza vea
+3200;apple;12;48;nuevo;5g;6;;128;6;ios;iphone 14 pro;;ltpo super retina xdr oled;6;si;6153;;plaza vea
+3095;apple;12;12;reacondicionado;5g;;;256;6;ios;iphone 13 pro;;super retina xdr;12;si;5159;;plaza vea
+4352;apple;12;12;reacondicionado;5g;;;256;6;ios;iphone 13 pro max;6.7;super retina xdr;12;si;5379;;plaza vea
+4352;apple;12;12;reacondicionado;5g;;;128;6;ios;iphone 13 pro max;6.7;super retina xdr;12;si;5079;;plaza vea
+3095;apple;12;12;reacondicionado;5g;;;128;6;ios;iphone 13 pro;;super retina xdr;12;si;4859;;plaza vea
+2227;apple;12;12;reacondicionado;5g;;;128;4;ios;iphone 12 mini;;super retina xdr;12;si;2129;;plaza vea
+2227;apple;12;12;reacondicionado;5g;;;128;3;ios;iphone 12 mini;;super retina xdr;12;si;2129;;plaza vea
+2227;apple;12;12;reacondicionado;5g;;;256;3;ios;iphone 12 mini;;super retina xdr;12;si;2309;;plaza vea
+2227;apple;12;12;reacondicionado;5g;;;256;4;ios;iphone 12 mini;;super retina xdr;12;si;2309;;plaza vea
+2018;apple;7;12;reacondicionado;5g;;;64;4;ios;iphone se;;ips;12;si;2089;;plaza vea
+1821;apple;7;12;reacondicionado;4g;;;128;3;ios;iphone se;;ips;12;si;1159;;plaza vea
+2018;apple;7;12;reacondicionado;5g;;;256;4;ios;iphone se;;ips;12;si;2459;;plaza vea
+2018;apple;7;12;reacondicionado;5g;;;128;4;ios;iphone se;;ips;12;si;2279;;plaza vea
+1821;apple;7;12;reacondicionado;4g;;;256;3;ios;iphone se;;ips;12;si;1289;;plaza vea
+3046;apple;12;12;reacondicionado;4g;;;128;4;ios;iphone 11 pro;;super retina xdr;12;si;2279;;plaza vea
+1821;apple;7;12;reacondicionado;4g;;;256;3;ios;iphone se;;retina hd;12;si;1289;;plaza vea
+3110;apple;12;12;reacondicionado;4g;;;256;4;ios;iphone 11;;lcd multi-touch;12;si;2199;;plaza vea
+3200;apple;12;48;nuevo;5g;6;;128;6;ios;iphone 14 pro;;ltpo super retina xdr oled;12;si;6499;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;128;6;ios;iphone 14 pro max;6.7;ltpo super retina xdr oled;12;sãƒâ­;6699;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;256;6;ios;iphone 14 pro max;6.7;ltpo super retina xdr oled;12;sãƒâ­;7199;;plaza vea
+3279;apple;12;12;nuevo;5g;6;;256;6;ios;iphone 14;6;super retina xdr oled;12;sãƒâ­;5199;;plaza vea
+3200;apple;12;48;nuevo;5g;6;;256;6;ios;iphone 14 pro;;ltpo super retina xdr oled;12;si;6499;;plaza vea
+5000;samsung;40;108;nuevo;5g;8;3;256;12;android;galaxy s22 ultra;6.8;amoled;6;sãƒâ­;4998;;plaza vea
+5000;xiaomi;5;;nuevo;4g;8;2;32;2;android;redmi 9a;6.5;ips;12;no;600;;plaza vea
+;motorola;5;;nuevo;;8;2;32;2;android;moto e6s;;ips;12;no;900;;plaza vea
+;smooth;;;nuevo;3g;;;; ;;snapx;;;3;no;109;;plaza vea
+;smooth;;;nuevo;;;;; ;;snapx;;;3;no;69;;plaza vea
+;smooth;;;nuevo;;;;; ;;snap mini;;;3;no;69;;plaza vea
+5000;xiaomi;20;200;nuevo;;8;;256;12;android;mi 12t pro;6.7;;12;si;2799;;plaza vea
+5000;xiaomi;20;200;nuevo;;8;;256;8;android;mi 12t pro;6.7;;12;si;2899;;plaza vea
+5000;xiaomi;5;8;nuevo;4g;2;2;32;2;android;redmi a1;6.5;ips;12;no;399;;plaza vea
+5000;xiaomi;5;8;nuevo;4g;2;2;32;2;android;redmi a1;6.5;ips;12;no;459;;plaza vea
+;xiaomi;;;nuevo;5g;;;256;12;android;poco f4;;;6;no;2700;;plaza vea
+;verykool;;;nuevo;;;;;;;i550;;;6;no;129;;plaza vea
+5000;samsung;32;64;nuevo;5g;2;2;128;8;android;galaxy a53;6.5;amoled;12;no;1749;;plaza vea
+5000;samsung;13;48;nuevo;;;2;64;4;android;galaxy a22;6.4;;12;;839;;plaza vea
+3279;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14;6;super retina xdr oled;6;sãƒâ­;4629;;plaza vea
+3200;apple;12;48;nuevo;5g;6;;128;6;ios;iphone 14 pro;;ltpo super retina xdr oled;12;si;5999;;plaza vea
+4020;motorola;5;16;nuevo;4g;8;;64;2;android;moto e22i;6.5;ips;6;;570;;plaza vea
+4000;samsung;12;64;reacondicionado;4g;8;;128;8;android;galaxy s20;;dynamic amoled 2x;3;sãƒâ­;1625;;plaza vea
+5000;samsung;13;48;nuevo;5g;;2.4;128;6;android;galaxy a33;6.4;super amoled;12;sãƒâ­;1309;;plaza vea
+3190;apple;12;12;reacondicionado;4g;6;;64;4;ios;iphone 11 pro;;super retina xdr oled;3;sãƒâ­;2460;;plaza vea
+4500;samsung;10;64;reacondicionado;4g;8;;128;8;android;galaxy s20 plus;6.7;dynamic amoled 2x;3;sãƒâ­;1977;;plaza vea
+2942;apple;7;12;reacondicionado;4g;6;;128;3;ios;iphone xr;;liquid retina ips lcd;3;sãƒâ­;1559;;plaza vea
+3279;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14;6;super retina xdr oled;6;sãƒâ­;4680;;plaza vea
+3700;samsung;10;12;nuevo;5g;8;;128;8;android;galaxy z flip 4;6.7;foldable dynamic amoled 2x;6;sãƒâ­;3625;;plaza vea
+2815;apple;12;12;reacondicionado;5g;;;256;4;ios;iphone 12;;super retina xdr;12;;3059;;plaza vea
+2815;apple;12;12;reacondicionado;4g;;;256;4;ios;iphone 12;;super retina xdr;12;;3059;;plaza vea
+1850;apple;7;12;reacondicionado;4g;6;;256;2;ios;iphone 8;;ips;3;sãƒâ­;1263;;plaza vea
+3000;movisun;5;13;nuevo;4g;4;1.3;32;2;android;movisun astro a1;;ips;12;no;395;;plaza vea
+5000;xiaomi;20;200;nuevo;5g;3;3.2;256;8;android;mi 12t pro;6.7;amoled;12;no;2799;;plaza vea
+5000;samsung;13;48;nuevo;5g;8;2.4;128;6;android;galaxy a33;6.4;super amoled;6;sãƒâ­;1278;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;256;6;ios;iphone 14 pro max;6.7;ltpo super retina xdr oled;12;;7199;;plaza vea
+4323;apple;12;48;nuevo;5g;6;3.46;256;6;ios;iphone 14 pro max;6.7;ltpo super retina xdr oled;;sãƒâ­;7399;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;128;6;ios;iphone 14 pro max;6.7;ltpo super retina xdr oled;12;;6699;;plaza vea
+3279;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14;6;super retina xdr oled;12;sãƒâ­;4849;;plaza vea
+5000;samsung;40;108;nuevo;5g;8;;256;12;android;galaxy s21 ultra;6.8;dynamic amoled 2x;6;sãƒâ­;4285;;plaza vea
+3240;apple;12;12;reacondicionado;5g;;;256;4;ios;iphone 13;;super retina xdr;12;;3909;;plaza vea
+5000;motorola;16;50;nuevo;4g;2;2;128;4;android;moto g22;6.5;lcd;12;no;859;;plaza vea
+3240;apple;12;12;reacondicionado;5g;6;;256;4;ios;iphone 13;;super retina xdr;12;;3909;;plaza vea
+2675;apple;7;12;reacondicionado;4g;6;;256;3;ios;iphone 8 plus;;retina ips lcd;3;sãƒâ­;1515;;plaza vea
+5000;motorola;16;50;nuevo;4g;8;2.3;128;4;android;moto g22;6.5;lcd;12;no;919;;plaza vea
+4500;samsung;32;12;nuevo;5g;8;2.8;128;6;android;galaxy s20 fe;6.5;super amoled;;;2099;1999;plaza vea
+3240;apple;;12;nuevo;;6;;128;4;ios;iphone 13;6.1;sãƒâºper retina xdr;12;sãƒâ­;4699;;plaza vea
+5000;motorola;16;50;nuevo;;8;2.4;128;6;android;moto g52;;fhd+;12;no;999;;plaza vea
+4400;samsung;4;50;nuevo;5g;8;3.18;512;12;android;galaxy z fold4;7.6;dynamic amoled 2x;;;6999;;plaza vea
+3700;samsung;10;12;nuevo;5g;8;3.18;256;8;android;galaxy z flip4;6.7;dynamic amoled 2x;;;3799;;plaza vea
+;xiaomi;5;13;nuevo;;;;64;2;android;redmi a1;6.5;;12;;429;;plaza vea
+5000;verykool;;8;nuevo;;;;;;;i880;;;12;;129;;plaza vea
+;lg;8;13;nuevo;;;;16;3;android;stylus 3;;ips;12;;959;;plaza vea
+;xiaomi;8;40;nuevo;;;2.4;128;6;android;mi 12 lite;6.7;amoled;12;;1998;;plaza vea
+5000;samsung;5;5;nuevo;4g;8;;64;4;android;galaxy a04;6.5;;12;no;599;;plaza vea
+4323;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14 plus;6.7;super retina xdr oled;12;sãƒâ­;5599;;plaza vea
+5000;oneplus;32;48;nuevo;5g;8;3.2;256;8;android;10 pro;6.7;ltpo2 fluid amoled;6;sãƒâ­;3515;;plaza vea
+;xiaomi;32;108;nuevo;;8;1.9;128;8;android;redmi 12 lite;6.6;fhd+;12;no;1999;;plaza vea
+5000;xiaomi;20;200;nuevo;5g;8;3.2;256;8;android;mi 12t pro;6.7;crystalred amoled;12;no;2799;;plaza vea
+5000;xiaomi;20;108;nuevo;4g;;3;256;8;android;mi 12t;6.7;crystalred amoled;12;no;2029;;plaza vea
+4300;xiaomi;32;108;nuevo;5g;4;2.4;128;8;android;mi 12lite;6.6;amoled dotdisplay;12;no;1799;;plaza vea
+4150;umidigi;24;48;nuevo;4g;8;2;128;8;android;a9 pro;6.4;ips;12;no;799;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;128;6;ios;iphone 14 pro max;6.7;ltpo super retina xdr oled;6;sãƒâ­;6592;;plaza vea
+3279;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14;6;super retina xdr oled;12;sãƒâ­;4799;;plaza vea
+3279;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14;6;super retina xdr oled;12;sãƒâ­;4599;;plaza vea
+5000;xiaomi;13;64;nuevo;4g;;2.4;128;6;android;poco m5s;6.4;amoled;12;no;979;;plaza vea
+5000;samsung;5;8;nuevo;4g;;;32;2;android;galaxy a03;;;12;no;419;;plaza vea
+4200;zte;16;64;nuevo;5g;8;;256;12;android;nubia red magic 6r;6.7;amoled;6;no;2329;;plaza vea
+5000;xiaomi;;;nuevo;4g;;;;;android;redmi note 11;;;12;no;819;;plaza vea
+5000;samsung;32;64;nuevo;5g;8;2.4;128;6;android;galaxy a53;;amoled;6;no;1579;;plaza vea
+3700;samsung;10;12;nuevo;5g;8;;256;8;android;galaxy z flip 4;6.7;foldable dynamic amoled 2x;6;sãƒâ­;3867;;plaza vea
+3500;lg;32;13;nuevo;4g;8;;128;6;android;g8x thinq;6.4;oled;6;sãƒâ­;1384;;plaza vea
+5000;vivo;8;13;nuevo;4g;;;64;4;android;y20;;;12;no;999;;plaza vea
+5000;samsung;32;;nuevo;5g;8;2.4;128;6;android;galaxy a53;;;6;no;1579;;plaza vea
+;tecno;8;13;nuevo;;;2;64;;android;pova neo;6.7;ips;12;;859;;plaza vea
+5000;samsung;13;40;nuevo;;;2.4;128;6;android;galaxy a33;6.5;super amoled;12;;1699;;plaza vea
+6000;samsung;20;40;nuevo;4g;;2.3;64;4;android;galaxy m21s;6.4;super amoled;12;;1089;;plaza vea
+;xiaomi;5;13;nuevo;;;2.3;32;2;android;redmi 9c;6.4;ips;12;;779;;plaza vea
+5000;samsung;32;64;nuevo;5g;8;2.4;128;6;android;galaxy a53;6.5;amoled;12;sãƒâ­;1599;;plaza vea
+5000;motorola;16;50;nuevo;4g;8;2.3;128;4;android;moto g22;6.5;ips;12;no;859;;plaza vea
+5000;xiaomi;20;108;nuevo;5g;8;2.84;256;8;android;mi 11t pro;;amoled;6;no;2099;;plaza vea
+3110;apple;12;;nuevo;5g;;;64;4;ios;iphone 11;;;12;sãƒâ­;2699;;plaza vea
+5000;samsung;13;48;nuevo;4g;8;2.4;128;6;android;galaxy a33;6.4;amoled;12;no;1299;;plaza vea
+3110;apple;12;;nuevo;5g;;;64;4;ios;iphone 11;;;12;sãƒâ­;2899;;plaza vea
+3110;apple;12;12;nuevo;4g;6;;128;4;ios;iphone 11;;;12;sãƒâ­;3199;;plaza vea
+5000;samsung;32;64;nuevo;5g;8;;128;6;android;galaxy a53;6.5;;12;;1799;;plaza vea
+;motorola;5;13;nuevo;;;2;32;2;android;moto e6s;6.4;ips;12;;1119;;plaza vea
+4323;apple;12;48;nuevo;5g;6;;;6;ios;iphone 14 pro max;;ltpo super retina xdr oled;12;;7129;;plaza vea
+3240;apple;12;;nuevo;5g;4;;128;4;ios;iphone 13;;super retina xdr oled;12;sãƒâ­;3899;;plaza vea
+;sony;;;nuevo;;;;;;;xperia pro;;;6;;11559;;plaza vea
+3200;apple;12;48;nuevo;5g;6;;;6;ios;iphone 14 pro;;ltpo super retina xdr oled;12;si;6799;;plaza vea
+5000;xiaomi;16;108;nuevo;4g;;;128;6;android;redmi note 10 pro;;;;;;1499;plaza vea
+5000;realme;5;12;nuevo;4g;;;64;3;android;c3 rmx2020;;;;;;769;plaza vea
+4700;xiaomi;20;64;nuevo;;8;;256;12;android;redmi k50 ge;6.7;oled;12;;2819;;plaza vea
+4000;lg;32;13;nuevo;5g;8;;256;8;android;v50s thinq;6.4;oled;6;sãƒâ­;1515;;plaza vea
+4700;xiaomi;20;64;nuevo;5g;8;;256;12;android;redmi k50 ge;6.7;oled;6;;2515;;plaza vea
+3190;apple;12;12;reacondicionado;4g;6;;64;4;ios;iphone 11 pro;;super retina xdr oled;3;sãƒâ­;2438;;plaza vea
+1821;apple;8;12;reacondicionado;4g;6;;128;3;ios;iphone se;;retina ips lcd;3;sãƒâ­;1263;;plaza vea
+5000;xiaomi;16;108;nuevo;4g;8;;128;6;android;redmi note 11 pro;;amoled;12;no;1299;;plaza vea
+5000;samsung;32;64;nuevo;5g;8;;128;6;android;galaxy a53;;;12;no;1799;;plaza vea
+5020;xiaomi;16;108;nuevo;4g;8;2.3;128;6;android;redmi note 10 pro;6.7;full hd+;12;no;1159;;plaza vea
+;samsung;8;50;nuevo;;8;2;64;4;android;galaxy a13;6.6;ips;12;no;699;;plaza vea
+5000;samsung;8;50;nuevo;4g;8;2;64;4;android;galaxy a13;6.6;ips;12;no;699;;plaza vea
+4500;xiaomi;16;108;nuevo;;8;;128;8;android;redmi note 11 pro plus;;;12;no;1899;;plaza vea
+5000;samsung;32;64;nuevo;5g;;2.4;128;6;android;galaxy a53;6.5;amoled;12;no;1899;;plaza vea
+;huawei;8;;nuevo;4g;;;128;6;android;nova y90;;;12;;1049;;plaza vea
+5000;xiaomi;2;8;nuevo;4g;;;32;2;android;redmi a1;6.5;ips;12;no;399;;plaza vea
+4323;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14 plus;6.7;super retina xdr oled;12;sãƒâ­;5899;;plaza vea
+3279;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14;6;super retina xdr oled;12;sãƒâ­;5399;;plaza vea
+1850;apple;7;;reacondicionado;4g;6;;64;2;ios;iphone 8;;ips;3;sãƒâ­;1076;;plaza vea
+1850;apple;7;;reacondicionado;4g;6;;64;2;ios;iphone 8;;ips;3;;1076;;plaza vea
+3110;apple;12;;reacondicionado;4g;6;;64;4;ios;iphone 11;;ips;3;sãƒâ­;1999;;plaza vea
+2700;apple;7;;reacondicionado;4g;6;;64;3;ios;iphone x;;super retina oled;3;sãƒâ­;1526;;plaza vea
+4000;wiko;16;;nuevo;;;;128;4;android;t50;;ips;12;;869;;plaza vea
+5000;samsung;32;;nuevo;5g;8;;256;8;android;galaxy a73;;amoled;12;no;2699;;plaza vea
+;motorola;;;nuevo;;;1.6;32;2;android;moto e6i;;ips;12;;589;;plaza vea
+;xiaomi;;;nuevo;;;;128;4;android;redmi note 11;;amoled;12;;989;;plaza vea
+;huawei;;;nuevo;;;2.2;64;4;android;y7a;;ips;12;;939;;plaza vea
+;hyundai;;;nuevo;;;;32;1;android;e603;;ips;12;;399;;plaza vea
+2942;apple;7;;reacondicionado;4g;6;;64;3;ios;iphone xr;;ips;3;sãƒâ­;1460;;plaza vea
+3700;samsung;10;12;nuevo;5g;8;3.19;128;8;android;galaxy zflip4;;dynamic amoled 2x;12;;3799;;plaza vea
+3700;samsung;10;12;nuevo;5g;8;3.19;256;8;android;galaxy zflip4;;dynamic amoled 2x;12;;3599;3499;plaza vea
+4500;xiaomi;20;64;nuevo;5g;8;;256;8;android;poco f4 gt;6.7;amoled;12;;2699;;plaza vea
+5000;samsung;16;;nuevo;5g;8;2.4;128;6;android;galaxy a33;6.4;super amoled;6;no;1263;;plaza vea
+;zte;;;nuevo;;;1.6;64;2;android;blade a5;6;touch;12;;479;;plaza vea
+;samsung;;;nuevo;;;;32;2;android;galaxy a03;6.5;amoled;12;;479;;plaza vea
+4500;oneplus;32;;nuevo;5g;8;2.6;128;8;android;nord 2;6.4;fluid amoled;6;no;1889;;plaza vea
+1821;apple;7;;nuevo;5g;6;;64;4;ios;iphone se;4.7;ips;6;sãƒâ­;2384;;plaza vea
+1821;apple;7;;nuevo;5g;6;;128;4;ios;iphone se;4.7;ips;6;sãƒâ­;2636;;plaza vea
+;samsung;;;nuevo;;;2.3;128;4;android;galaxy a12;6.5;amoled;12;;879;;plaza vea
+;samsung;;;nuevo;;;;32;2;android;galaxy a10s;6.5;led;12;;759;;plaza vea
+2942;apple;7;;reacondicionado;4g;6;;64;3;ios;iphone xr;6.1;liquid retina ips lcd;3;sãƒâ­;1460;;plaza vea
+;sony;;;nuevo;;;;;;android;xperia 1 iii;;;;;;6809;plaza vea
+;motorola;;;nuevo;;;;;;android;moto edge;;;;;;3769;plaza vea
+5000;tecno mobile;8;48;nuevo;;;2;64;4;android;spark 8 pro;6.8;;13;no;899;;plaza vea
+5000;xiaomi;8;;nuevo;4g;2;2;128;4;android;redmi 10;6;ips;6;no;899;;plaza vea
+5000;xiaomi;13;;nuevo;4g;2;2;128;6;android;redmi note 10s;6.4;amoled;6;no;1399;;plaza vea
+;samsung;5;;nuevo;;;;32;2;android;galaxy a03;6.5;;12;;479;;plaza vea
+3227;apple;12;;nuevo;4g;4;3.23;128;4;ios;iphone 13;6.1;super retina xdr oled;12;no;3999;;plaza vea
+3227;apple;12;;nuevo;5g;4;3.23;128;4;ios;iphone 13;6.1;super retina xdr oled;12;no;3999;;plaza vea
+4150;umidigi;24;48;nuevo;4g;3;2;128;8;android;a9 pro;6.3;ips lcd;12;no;1699;;plaza vea
+5000;samsung;32;;nuevo;;8;;128;6;android;galaxy a53;;;12;sãƒâ­;1699;;plaza vea
+5000;samsung;32;;nuevo;;8;;128;6;android;galaxy a53;;;12;sãƒâ­;2100;;plaza vea
+2942;apple;7;;reacondicionado;;;;256;3;ios;iphone xr;6.1;liquid retina hd;12;;1559;;plaza vea
+3110;apple;12;;reacondicionado;;;;64;4;ios;iphone 11;6.1;liquid retina hd;12;;1919;;plaza vea
+;snap;;;nuevo;;1;;32; ;freedos;snap x;1.8;;6;;72.9;;plaza vea
+5150;umidigi;16;48;nuevo;4g;8;2;128;6;android;a13 pro;6.7;ips;12;no;799;;plaza vea
+5000;xiaomi;13;;nuevo;4g;8;2.4;128;4;android;redmi note 11;6.5;led;12;sãƒâ­;999;;plaza vea
+5000;samsung;8;;nuevo;5g;8;2.2;128;3;android;galaxy a22;6.5;led;12;sãƒâ­;1099;;plaza vea
+5000;samsung;32;;nuevo;5g;8;2.2;128;6;android;galaxy a53;6.5;amoled;12;sãƒâ­;1699;;plaza vea
+5000;samsung;13;;nuevo;4g;;2;64;4;android;galaxy a22;6.5;led;12;sãƒâ­;1099;;plaza vea
+5000;samsung;8;;nuevo;4g;8;2.4;128;4;android;galaxy a23;6.5;led;12;sãƒâ­;949;;plaza vea
+5000;samsung;20;;nuevo;4g;8;2;128;4;android;galaxy a32;6.5;led;12;sãƒâ­;1399;;plaza vea
+5000;samsung;5;;nuevo;4g;8;1.6;32;3;android;galaxy a03;6.5;led;12;sãƒâ­;599;;plaza vea
+5000;xiaomi;5;;nuevo;4g;8;2;32;2;android;redmi 10a;6.5;led;12;sãƒâ­;599;;plaza vea
+5000;samsung;5;;nuevo;4g;8;1.6;32;2;android;galaxy a03;6.5;led;12;sãƒâ­;449;;plaza vea
+5000;xiaomi;13;;nuevo;4g;4;2.3;128;6;android;redmi note 10s;6.5;led;12;sãƒâ­;999;;plaza vea
+5000;xiaomi;5;;nuevo;4g;8;2.3;128;4;android;redmi 9c;6.5;led;12;sãƒâ­;749;;plaza vea
+6000;xiaomi;8;;nuevo;4g;4;2.3;128;4;android;redmi 10;6.5;led;12;sãƒâ­;999;;plaza vea
+5000;xiaomi;5;;nuevo;4g;2;2;32;2;android;redmi 10a;6.5;led;12;sãƒâ­;599;;plaza vea
+5000;xiaomi;5;;nuevo;4g;2;2;32;2;android;redmi 9a;6.5;led;12;sãƒâ­;499;;plaza vea
+5000;xiaomi;8;;nuevo;4g;2;2.4;128;4;android;redmi note 11;6.5;led;12;no;949;;plaza vea
+800;movisun;;;nuevo;3g;;;;;;aplo k32;1.8;lcd;12;no;165;;plaza vea
+4600;xiaomi;32;;nuevo;5g;8;;256;8;android;mi 12 pro;;amoled ltpo;12;;4599;;plaza vea
+4500;xiaomi;32;;nuevo;5g;8;;256;12;android;mi 12;;amoled;12;;3199;;plaza vea
+5000;xiaomi;16;108;nuevo;5g;4;3;256;8;android;mi 11t;;amoled;6;no;1799;;plaza vea
+5000;samsung;8;;nuevo;;8;2.4;128;4;android;galaxy a23;6.6;ips;6;;911;;plaza vea
+5000;xiaomi;13;;nuevo;;8;2.4;128;4;android;redmi note 11s;;ips;12;no;1199;;plaza vea
+3800;genãƒâ€°rico;5;;nuevo;3g;;1.3;32;1;android;lamate s120;6.1;;12;no;480;;plaza vea
+3800;genãƒâ€°rico;5;;nuevo;4g;;1.3;32;2;android;lamate p100;6.5;;12;no;599;;plaza vea
+;xiaomi;5;;nuevo;;;2;32;2;android;redmi 10a;;ips;12;no;599;;plaza vea
+;motorola;60;;nuevo;;8;2.5;256;12;android;moto edge 30 pro;;full hd+;12;no;2899;;plaza vea
+5000;xiaomi;5;;nuevo;;;;128;4;android;redmi 10c;6.7;;6;;735;;plaza vea
+5000;realme;8;50;nuevo;5g;8;2.4;128;6;android;9i;6.6;ips;12;sãƒâ­;1149;;plaza vea
+6000;motorola;32;;nuevo;;;;128;6;android;moto g60;;ips;6;;1098;;plaza vea
+5000;xiaomi;5;;nuevo;;;;128;4;android;redmi 10c;;ips;6;;735;;plaza vea
+5000;xiaomi;5;;nuevo;4g;;;32;2;android;redmi 10a;6.5;ips;6;no;499;;plaza vea
+2600;zte;8;;nuevo;4g;;2;64;2;android;blade a5;5.5;;12;no;489;;plaza vea
+950;lg;;;nuevo;4g;;;32;;android;g360;;;6;;193;;plaza vea
+5000;xiaomi;16;;nuevo;4g;;;128;8;android;redmi note 11s;;ips;6;;1230;;plaza vea
+5000;xiaomi;13;;nuevo;4g;;;128;4;android;redmi note 11;;;6;;845;;plaza vea
+950;lg;;;nuevo;4g;;;32;;android;g360;;;6;;188;;plaza vea
+5000;xiaomi;16;;nuevo;;;;256;8;android;mi 11t pro;;;6;;2175;;plaza vea
+5000;xiaomi;16;;nuevo;;;;128;8;android;redmi note 11s;;;6;;1230;;plaza vea
+5000;xiaomi;13;;nuevo;;;;128;6;android;redmi note 10s;;;6;;933;;plaza vea
+5000;xiaomi;16;;nuevo;;;;256;8;android;mi 11t;;;6;;1867;;plaza vea
+2942;apple;7;;reacondicionado;4g;;;64;3;ios;iphone xr;6.1;liquid retina hd;12;;1319;;plaza vea
+5000;xiaomi;16;;nuevo;4g;8;2.05;128;6;android;redmi note 11 pro;6.7;amoled;12;;1349;;plaza vea
+5000;xiaomi;16;;nuevo;5g;8;2.8;256;8;android;mi 11t pro;;amoled;6;sãƒâ­;1998;;plaza vea
+5000;xiaomi;16;;nuevo;;8;2.84;256;8;android;mi 11t pro;;amoled;6;;2054;;plaza vea
+5000;samsung;40;;nuevo;4g;8;;256;12;android;galaxy s22 ultra;6.8;;6;sãƒâ­;4867;;plaza vea
+3700;samsung;10;;nuevo;4g;;;128;8;android;galaxy s22;6.1;;6;no;3131;;plaza vea
+2046;apple;12;;nuevo;5g;;;128;4;ios;iphone 13;6.1;oled;12;sãƒâ­;4589;;plaza vea
+3240;apple;12;;nuevo;;6;;128;4;ios;iphone 13;;oled;12;sãƒâ­;4199;;plaza vea
+2815;apple;12;;nuevo;;6;3.1;128;4;ios;iphone 12;;oled;12;sãƒâ­;4099;;plaza vea
+;xiaomi;32;;nuevo;;8;3;256;8;android;mi 12;;amoled;12;no;3399;;plaza vea
+5000;samsung;32;;nuevo;5g;8;2.4;128;6;android;galaxy a53;;super amoled;12;;1549;;plaza vea
+;apple;;;nuevo;;;;;6;ios;iphone 13 pro max;;;12;;8890;;plaza vea
+;apple;;;nuevo;;;;;6;ios;iphone 13 pro max;;;12;;9980;;plaza vea
+;xiaomi;16;;nuevo;4g;;;128;6;android;redmi note 11s;6.4;;12;;999;;plaza vea
+;samsung;8;;nuevo;5g;;;128;4;android;galaxy a22;6.7;;12;;1169;;plaza vea
+;samsung;50;;nuevo;4g;;;128;6;android;galaxy a23;6.6;;12;;1049;;plaza vea
+5000;xiaomi;5;;nuevo;4g;;;128;4;android;redmi 10c;6.7;;6;;724;;plaza vea
+4500;xiaomi;32;;nuevo;4g;8;3;256;8;android;mi 12;6.3;oled;6;no;3890;;plaza vea
+4040;samsung;8;;nuevo;5g;;;128;8;android;galaxy a53;6.5;;6;;1779;;plaza vea
+5000;xiaomi;16;;nuevo;;;;128;8;android;redmi note 11s;6.4;;6;;1230;;plaza vea
+5000;xiaomi;16;;nuevo;;;;128;6;android;mi 11t pro;6.7;;6;;2054;;plaza vea
+5000;xiaomi;;;nuevo;4g;8;;128;6;emui;redmi note 11 pro;6.7;amoled;12;;1229;;plaza vea
+5000;samsung;13;48;nuevo;4g;8;1.8;128;4;android;galaxy a22;6.4;super amoled;12;no;799;749;plaza vea
+;samsung;8;;nuevo;4g;8;2.3;64;6;android;galaxy note 8;;;6;;1427;;plaza vea
+;huawei;32;;nuevo;4g;8;2.2;128;4;android;p30 lite;;;12;;977;;plaza vea
+;xiaomi;20;;nuevo;4g;;;256;8;android;mi 11i;;;6;;2384;;plaza vea
+;samsung;13;;nuevo;4g;;2;128;4;android;galaxy a22;;;6;;879;;plaza vea
+3060;alcatel;5;13;nuevo;4g;;1.6;32;2;android;1se;5.5;ips;7;no;599;;plaza vea
+5150;umidigi;8;13;nuevo;4g;8;;64;3;android;a9;6.53;ips;12;no;549;;plaza vea
+;xiaomi;16;;nuevo;4g;2;2;128;6;android;redmi note 10 pro;;;6;;1069;;plaza vea
+;apple;12;;nuevo;4g;;;64;4;ios;iphone 11;;;6;;2526;;plaza vea
+;apple;12;;nuevo;4g;;;64;4;ios;iphone 11;;;12;;4899;;plaza vea
+;xiaomi;13;;nuevo;4g;;;128;6;android;redmi note 10s;;;6;;933;;plaza vea
+;samsung;8;;nuevo;4g;8;2.35;64;4;android;galaxy s8 plus;;super amoled;6;;1296;;plaza vea
+;zte;8;;nuevo;4g;;;64;2;android;blade a5;;;12;;445;;plaza vea
+;apple;12;;nuevo;4g;6;2.5;64;4;ios;iphone 12 mini;;super retina xdr;3;;3979;;plaza vea
+;sky;2;;nuevo;;;1.4;32;1;;elite c5;;ips;7;;299;;plaza vea
+;zte;5;;nuevo;;;1.3;32;1;;blade l8;;ips;7;;299;;plaza vea
+;xiaomi;20;;nuevo;;8;2.84;;8;android;mi 10t pro;;ips;12;;2999;;plaza vea
+;samsung;8;;nuevo;4g;;;64;4;android;galaxy a12;;hd+;12;;746;;plaza vea
+5000;motorola;16;16;nuevo;;8;3;64;4;android;moto g8;6.4;ips;;no;499;459;plaza vea
+5000;xiaomi;5;13;nuevo;;8;3;32;2;android;redmi 9a;6.5;ips;;no;499;;plaza vea
+5000;xiaomi;5;13;nuevo;4g;8;2;32;2;android;;6.5;ips;12;no;499;;plaza vea

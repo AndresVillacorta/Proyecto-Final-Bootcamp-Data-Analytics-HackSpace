@@ -1,0 +1,82 @@
+bat;brand;cam_front;cam_main;condition;conect;cores;cpu_vel;mem_int;mem_ram;os;phone;screen_size;screen_type;warranty;water_res;price_norm;price_off;retail
+5000;samsung;5;8;nuevo;4g;8;1.6;32;2;android;galaxy a03 core;6.5;lcd tft;12;no; ; ;ripley
+5000;samsung;5;50;nuevo;4g;8;2.3;64;4;android;galaxy a04;6.5;ips;12;no;569;549;ripley
+5000;samsung;5;13;nuevo;4g;8;2.3;64;3;android;galaxy a04e;6.5;ips;12;no;489;469;ripley
+5000;samsung;8;50;nuevo;4g;8;2;64;4;android;galaxy a13;6.6;tft;12;no;649;599;ripley
+5000;samsung;8;48;nuevo;5g;8;2.2;128;4;android;galaxy a22;6.6;tft;12;no; ; ;ripley
+5000;samsung;8;48;nuevo;4g;8;2.4;128;4;android;galaxy a23;6.6;tft;12;no;849;769;ripley
+5000;samsung;13;48;nuevo;4g;8;2.4;128;4;android;galaxy a33;6.4;amoled;12;si;1199;1099;ripley
+5000;samsung;32;64;nuevo;4g;8;2.4;128;6;android;galaxy a53;;amoled;12;si;1689;1599;ripley
+4500;samsung;32;12;nuevo;4g;8;2.8;128;6;android;galaxy s20 fe;6.5;amoled;12;si;1899;1799;ripley
+4500;samsung;32;12;nuevo;4g;8;2.8;128;6;android;galaxy s20 fe;6.5;;12;si;1899;1799;ripley
+4500;samsung;32;12;nuevo;4g;8;2.8;128;6;android;galaxy s21 fe;6.4;amoled;12;si;2899;2499;ripley
+4500;samsung;32;12;nuevo;4g;8;2.8;256;6;android;galaxy s21 fe;6.4;amoled;12;si; ; ;ripley
+4500;samsung;32;12;nuevo;5g;8;2.9;128;6;android;galaxy s21 fe;6.4;;12;no;2899;2499;ripley
+3700;samsung;10;50;nuevo;5g;8;2.99;128;8;android;galaxy s22;6.1;amoled;12;;3499;3299;ripley
+5000;samsung;40;108;nuevo;5g;8;2.99;128;8;android;galaxy s22 ultra;6.8;amoled;12;;4399;4199;ripley
+5000;samsung;40;108;nuevo;5g;8;2.99;128;8;android;galaxy s22 ultra;6.8;amoled;12;si;4399;4199;ripley
+5000;samsung;40;108;nuevo;5g;8;2.99;128;8;android;galaxy s22 ultra;6.8;amoled;12;no;4399;4199;ripley
+4500;samsung;10;50;nuevo;5g;8;2.99;128;8;android;galaxy s22+;6.6;amoled;12;;4599;4399;ripley
+3900;samsung;12;50;nuevo;5g;8;3.36;256;8;android;galaxy s23;6.1;amoled;12;si;3999;3799;ripley
+4700;samsung;12;50;nuevo;5g;8;3.36;512;8;android;galaxy s23 plus;6.6;amoled;12;si;4799;4599;ripley
+5000;samsung;12;200;nuevo;5g;8;3.36;512;12;android;galaxy s23 ultra;6.8;amoled;12;si;5599;5399;ripley
+3700;samsung;10;12;nuevo;4g;8;3.18;128;8;android;galaxy z flip 4;6.7;amoled;12;si;3699;3599;ripley
+4400;samsung;4;50;nuevo;4g;8;3.18;256;12;android;galaxy z fold4;7.6;amoled;12;si;6799;6599;ripley
+4300;honor;32;108;nuevo;5g;8;2.4;256;8;android;honor 50;6.57;;24;no;2999;2799;ripley
+;honor;8;48;nuevo;4g;8;2.4;128;4;android;honor x7 ;6.74;ips;12;no; ; ;ripley
+;honor;16;64;nuevo;4g;8;2.4;128;8;android;honor x9 b;6.9;ips;12;no;1499;1349;ripley
+;apple;12;12;nuevo;4g;6;;64;4;ios;iphone 11;6.1;ips;12;;2199;2099;ripley
+;apple;12;12;nuevo;4g;6;;128;4;ios;iphone 11;6.1;ips;12;;2499;2399;ripley
+3227;apple;12;12;nuevo;5g;6;;128;4;ios;iphone 13;6.1;super retina xdr oled;12;si;4099;3999;ripley
+3227;apple;12;12;nuevo;5g;6;;128;4;ios;iphone 13;6.1;super retina xdr;12;si;4099;3999;ripley
+3227;apple;12;12;nuevo;5g;6;;128;4;ios;iphone 13;;super retina xdr;12;si;4099;3999;ripley
+3227;apple;12;12;nuevo;5g;6;;256;4;ios;iphone 13;6.1;super retina xdr;12;si;4999;4899;ripley
+3227;apple;12;12;nuevo;5g;6;;256;4;ios;iphone 13;;super retina xdr;12;si;4999;4899;ripley
+3227;apple;12;12;nuevo;5g;6;;128;4;ios;iphone 13;;super retina xdr;12;si; ; ;ripley
+;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 13 pro;;super retina xdr;12;si;4799;4699;ripley
+;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 13 pro;6.1;super retina xdr;12;si;4799;4699;ripley
+;apple;12;12;nuevo;5g;6;;256;6;ios;iphone 13 pro;6.1;super retina xdr;12;si;5999;5899;ripley
+;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 13 pro;6.1;super retina xdr;12;si; ; ;ripley
+;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 13 pro max;;super retina xdr;12;si; ; ;ripley
+;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 13 pro max;;super retina xdr;12;si;6199;5999;ripley
+3279;apple;12;12;nuevo;5g;6;;256;6;ios;iphone 14;6.1;super retina xdr;12;si;4999;4899;ripley
+3279;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14;6.1;super retina xdr;12;si;4499;4349;ripley
+4325;apple;12;12;nuevo;5g;6;;128;6;ios;iphone 14 plus;6.7;super retina xdr;12;si;4999;4899;ripley
+4325;apple;12;12;nuevo;5g;6;;256;6;ios;iphone 14 plus;6.7;super retina xdr;12;si;5599;5499;ripley
+3200;apple;12;48;nuevo;5g;6;;128;6;ios;iphone 14 pro;6.1;super retina xdr;12;si;5899;5799;ripley
+1821;apple;7;12;nuevo;5g;6;;64;3;ios;iphone se;4.7;retina hd;12;si;2399;2199;ripley
+1821;apple;7;12;nuevo;5g;6;;128;3;ios;iphone se;4.7;retina hd;12;si;2699;2499;ripley
+1821;apple;7;12;nuevo;5g;6;;64;3;ios;iphone se;4.7;ips;12;si;2499;2299;ripley
+1821;apple;7;12;nuevo;5g;2;;64;3;ios;iphone se;4.7;ips;12;si;2499;2299;ripley
+4500;xiaomi;32;50;nuevo;5g;8;3;256;8;android;mi 12 ;6.28;amoled;12;no;3459;3359;ripley
+4020;motorola;5;16;nuevo;4g;8;2.3;64;2;android;moto e22i;6.5;ips;12;no;479;449;ripley
+4400;motorola;13;50;nuevo;5g;8;2.4;256;12;android;moto edge 30 fusion;6.4;oled;12;no;2499;2399;ripley
+4020;motorola;32;64;nuevo;5g;8;2.4;128;8;android;moto edge 30 n;6;oled;12;no;1699;1629;ripley
+4800;motorola;60;50;nuevo;5g;8;;256;12;android;moto edge 30 pro;6.9;oled;0;no;2899;2799;ripley
+5000;motorola;13;50;nuevo;4g;8;2.4;128;4;android;moto g31;6.4;oled;12;no;699;669;ripley
+5000;motorola;13;50;nuevo;4g;8;2.4;128;4;android;moto g31;6.4;oled;0;no;699;669;ripley
+5000;huawei;8;50;nuevo;;8;;128;6;android;nova y90 ;6.67;ips;12;no;1099;989;ripley
+5000;xiaomi;13;64;nuevo;4g;8;2.05;128;6;android;poco m5s ;6.43;amoled;12;no;1099;949;ripley
+5000;xiaomi;13;64;nuevo;4g;8;;128;6;android;poco m5s ;6.43;amoled;12;no;1099;949;ripley
+5000;realme;5;13;nuevo;4g;8;1.8;64;4;android;realme 21y;6.5;ips;12;;699;669;ripley
+5000;realme;5;13;nuevo;4g;8;1.8;64;4;android;realme 21y;6.5;ips;12;;699;669;ripley
+5000;realme;16;108;nuevo;4g;8;2.4;128;8;android;realme 9;6.4;amoled;12;no;1299;1169;ripley
+5000;realme;16;2;nuevo;4g;8;;128;6;;realme 9i rmx3491;6.6;full hd;12;no;1159;1043;ripley
+5000;realme;16;2;nuevo;4g;8;;128;6;;realme 9i rmx3491;;full hd;12;no;1159;1043;ripley
+5000;realme;8;50;nuevo;4g;8;2.2;128;4;android;realme c;6;ips;12;si;859;809;ripley
+5000;realme;5;8;nuevo;4g;8;1.6;32;2;;realme c11;6.5;ips;12;;519;499;ripley
+;xiaomi;8;50;nuevo;4g;8;2;128;4;;redmi 10 2022;6.5;ips;12;no;859;839;ripley
+5000;xiaomi;5;13;nuevo;4g;8;2;64;3;android;redmi 10a ;6.52;hd;12;no;609;599;ripley
+5000;xiaomi;5;50;nuevo;4g;8;2.4;64;4;android;redmi 10c;6.71;ips;12;no;729;699;ripley
+5000;xiaomi;5;13;nuevo;4g;8;2;32;2;;redmi 9a ;6.53;led;12;no;489;469;ripley
+5000;xiaomi;5;13;nuevo;4g;8;2.3;64;3;;redmi 9c;6.53;ips;12;no; ; ;ripley
+5000;xiaomi;5;13;nuevo;4g;8;;64;3;android;redmi 9c;6.53;amoled;12;no;629;599;ripley
+5000;xiaomi;5;13;nuevo;4g;8;2.3;64;3;;redmi 9c ;6.53;ips;12;no;639;599;ripley
+5000;xiaomi;;64;nuevo;4g;8;2.05;128;6;android;redmi note 10s ;6.43;ips;12;; ; ;ripley
+5000;xiaomi;13;50;nuevo;4g;8;2.4;128;4;;redmi note 11;6.43;ips;12;no;979;949;ripley
+5000;xiaomi;13;50;nuevo;4g;8;2.3;128;4;android;redmi note 11;6.43;ips;12;no; ; ;ripley
+5000;xiaomi;16;108;nuevo;4g;8;2.05;128;6;;redmi note 11 ;6.67;ips;12;no; ; ;ripley
+5000;xiaomi;16;108;nuevo;4g;8;2.05;128;6;;redmi note 11 pro;6.67;ips;12;; ; ;ripley
+5000;samsung;5;48;nuevo;4g;8;1.6;32;3;;samsung;6.5;;12;; ; ;ripley
+;vivo;5;13;nuevo;4g;8;;64;4;android;vivo y16;;;12;no; ; ;ripley
+;vivo;8;64;nuevo;4g;8;2;128;8;android;vivo y53s;;;12;no; ; ;ripley
